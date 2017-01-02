@@ -1,0 +1,510 @@
+.version.gallery /* version checker */
+{
+	color: #0000E1;
+	background-color: #BB4B74;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.8249999999998px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#pu970
+{
+	width: 0.01px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u970,#u970-bw
+{
+	z-index: 2;
+	height: 160px;
+}
+
+#u972-4
+{
+	z-index: 4;
+	width: 349px;
+	min-height: 95px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 59px;
+	left: 13px;
+}
+
+#u971
+{
+	z-index: 3;
+	min-height: 48px;
+	padding-bottom: 14px;
+}
+
+#u973-4
+{
+	z-index: 8;
+	width: 113px;
+	min-height: 30px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 1px;
+}
+
+#u973-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 30px;
+	width: 113px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#u974-4
+{
+	z-index: 12;
+	width: 113px;
+	min-height: 30px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 132px;
+}
+
+#u973-4.MuseLinkActive,#u974-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 30px;
+	width: 113px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#u975-4
+{
+	z-index: 16;
+	width: 113px;
+	min-height: 30px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 262px;
+}
+
+#u974-4.MuseLinkActive,#u975-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 30px;
+	width: 113px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#u975-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 30px;
+	width: 113px;
+	margin: 14px -10000px 0px 0px;
+}
+
+#u971-bw
+{
+	z-index: 3;
+	min-height: 48px;
+	margin-top: -4px;
+	margin-bottom: -4px;
+}
+
+#pamphletu1000
+{
+	z-index: 40;
+	width: 0.01px;
+	height: 996px;
+	margin-left: 30px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u1001
+{
+	z-index: 41;
+	width: 315px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1003
+{
+	position: absolute;
+	width: 310px;
+	height: 210px;
+	border-color: #DDDDDD;
+	background: #FFFFFF url("../../images/radio-city-u1003-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1003:hover
+{
+	border-color: #000000;
+	width: 310px;
+	height: 210px;
+	min-height: 0px;
+	margin: 0px;
+	background: #FFFFFF url("../../images/radio-city-u1003-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1004
+{
+	position: absolute;
+	width: 310px;
+	height: 210px;
+	border-width: 0px;
+	top: 391px;
+	left: 5px;
+	background: #FFFFFF url("../../images/theatre-u1004-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1002
+{
+	position: absolute;
+	width: 310px;
+	height: 210px;
+	border-width: 0px;
+	top: 786px;
+	left: 5px;
+	background: #FFFFFF url("../../images/hall-u1002-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1004:hover,#u1002:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 310px;
+	height: 210px;
+	min-height: 0px;
+	margin: 0px;
+	background-size: cover;
+}
+
+#u1007
+{
+	position: absolute;
+	width: 369px;
+	background-color: #F7BCFB;
+	background-color: rgba(246,171,251,0.79);
+	padding-bottom: 44px;
+	top: 316px;
+	left: -24px;
+	-pie-background: rgba(246,171,251,0.79);
+}
+
+#u1007popup
+{
+	z-index: 45;
+}
+
+#u1010
+{
+	z-index: 46;
+	width: 325px;
+	height: 575px;
+	border-width: 0px;
+	border-color: #000000;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: #FFFFFF url("../../images/radio-city.jpg") no-repeat center center;
+}
+
+#u1010:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #FFFFFF;
+	width: 325px;
+	height: 575px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1009
+{
+	z-index: 47;
+	width: 325px;
+	height: 575px;
+	border-width: 0px;
+	border-color: #000000;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: #FFFFFF url("../../images/theatre.jpg") no-repeat center center;
+}
+
+#u1008
+{
+	z-index: 48;
+	width: 325px;
+	height: 575px;
+	border-width: 0px;
+	border-color: #000000;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+	background: #FFFFFF url("../../images/hall.jpg") no-repeat center center;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u1020-4
+{
+	z-index: 49;
+	width: 293px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-size: 16px;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
+	margin-left: 44px;
+	top: -774px;
+	margin-bottom: -26px;
+	position: relative;
+}
+
+#u1021-4
+{
+	z-index: 53;
+	width: 293px;
+	min-height: 89px;
+	background-color: transparent;
+	text-align: justify;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 44px;
+	top: -741px;
+	margin-bottom: -89px;
+	position: relative;
+}
+
+#u1022-4
+{
+	z-index: 57;
+	width: 293px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-size: 16px;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
+	margin-left: 44px;
+	top: -379px;
+	margin-bottom: -26px;
+	position: relative;
+}
+
+#u1023-4
+{
+	z-index: 61;
+	width: 293px;
+	min-height: 89px;
+	background-color: transparent;
+	text-align: justify;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 44px;
+	top: -346px;
+	margin-bottom: -89px;
+	position: relative;
+}
+
+#u1026-4
+{
+	z-index: 65;
+	width: 293px;
+	min-height: 26px;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-size: 16px;
+	font-family: sansita-one, sans-serif;
+	font-weight: 400;
+	margin-left: 44px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u1027-4
+{
+	z-index: 69;
+	width: 293px;
+	min-height: 89px;
+	background-color: transparent;
+	text-align: justify;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	margin-left: 44px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#pu976
+{
+	width: 0.01px;
+	margin-top: 18px;
+}
+
+#u976
+{
+	z-index: 20;
+	min-height: 65px;
+	padding-bottom: 9px;
+}
+
+#u987-4
+{
+	z-index: 36;
+	width: 378px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 51px;
+}
+
+#u987-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	width: 378px;
+	margin: 51px -10000px 0px 0px;
+}
+
+#u976-bw
+{
+	z-index: 20;
+	min-height: 65px;
+}
+
+#u977
+{
+	z-index: 22;
+	height: 44px;
+	width: 44px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 90px;
+}
+
+#u979
+{
+	z-index: 25;
+	height: 45px;
+	width: 45px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 206px;
+}
+
+#u981
+{
+	z-index: 28;
+	height: 45px;
+	width: 45px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 167px;
+}
+
+#u983
+{
+	z-index: 31;
+	height: 45px;
+	width: 45px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 128px;
+}
+
+#u985
+{
+	z-index: 34;
+	height: 45px;
+	width: 45px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 245px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/pattern.jpg") repeat center center scroll;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+

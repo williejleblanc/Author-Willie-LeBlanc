@@ -1,0 +1,84 @@
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.willie-j-leblanc.net" resolutions="1x" timestamp="1483317260059">
+  <folder name="css">
+    <file name="site_global.css" crc="475633959"/>
+    <file name="master_a-master.css" crc="221944265" ref="photos:index:gallery:contact"/>
+    <file name="photos.css" crc="351511922" ref="photos"/>
+    <file name="index.css" crc="3929240397" ref="index"/>
+    <file name="gallery.css" crc="225569636" ref="gallery"/>
+    <file name="contact.css" crc="149241318" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="rnb-125.mp3" crc="3776269904" seo="true" mt="1483245150000"/>
+    <file name="oakland_night_skyline_weboriginal1.jpg" crc="3936421278" seo="true" mt="1483292759000"/>
+    <file name="hot-and-ready-(120_60).mp3" crc="83411068" seo="true" mt="1468201773000"/>
+    <file name="vici-6-(80).mp3" crc="4105696434" seo="true" mt="1468200878000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="phone>index:phone>gallery:phone>contact:tablet>index:index:gallery:contact:photos"/>
+    <file name="museutils.js" crc="531812214" ref="phone>index:phone>gallery:phone>contact:tablet>index:index:gallery:contact:photos"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>gallery:phone>contact:tablet>index:index:gallery:contact:photos"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="phone>index:phone>gallery:phone>contact:tablet>index:index:gallery:contact:photos"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>gallery:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="phone>gallery"/>
+    <file name="webpro.js" crc="4156477058" ref="phone>gallery"/>
+    <file name="musewpslideshow.js" crc="4058618124" ref="phone>gallery"/>
+    <file name="jquery.museoverlay.js" crc="3810062583" ref="phone>gallery"/>
+    <file name="touchswipe.js" crc="4174436727" ref="phone>gallery"/>
+    <file name="museredirect.js" crc="524071285" ref="tablet>index:index:gallery:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="header.jpg" crc="4211453320" ref="phone>index:index"/>
+    <file name="road.jpg" crc="499314039" ref="phone>index"/>
+    <file name="u977.png" crc="4283367119" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u977-r.png" crc="3791477959" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u979.png" crc="3942386860" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u979-r.png" crc="4044562075" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u981.png" crc="3968497242" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u981-r.png" crc="4141837398" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u983.png" crc="4163514458" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u983-r.png" crc="4227525456" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u985.png" crc="3827734060" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="u985-r.png" crc="343753046" ref="phone>index:phone>gallery:phone>contact"/>
+    <file name="pattern.jpg" crc="514332266" ref="phone>index:phone>gallery:phone>contact:index:gallery:contact:photos"/>
+    <file name="radio-city-u1003-fr.jpg" crc="4155226423" ref="phone>gallery"/>
+    <file name="theatre-u1004-fr.jpg" crc="511865004" ref="phone>gallery"/>
+    <file name="hall-u1002-fr.jpg" crc="81983109" ref="phone>gallery"/>
+    <file name="radio-city.jpg" crc="4063318834" ref="phone>gallery"/>
+    <file name="theatre.jpg" crc="319397580" ref="phone>gallery"/>
+    <file name="hall.jpg" crc="4263717843" ref="phone>gallery"/>
+    <file name="oakland_night_skyline_weboriginal1.jpg" crc="166189174" seo="true" ref="index"/>
+    <file name="taxi.jpg" crc="3771065376" ref="index"/>
+    <file name="u677.png" crc="4283367119" ref="index:gallery:contact:photos"/>
+    <file name="u677-r.png" crc="3791477959" ref="index:gallery:contact:photos"/>
+    <file name="u696.png" crc="3968497242" ref="index:gallery:contact:photos"/>
+    <file name="u696-r.png" crc="4141837398" ref="index:gallery:contact:photos"/>
+    <file name="u701.png" crc="4163514458" ref="index:gallery:contact:photos"/>
+    <file name="u701-r.png" crc="4227525456" ref="index:gallery:contact:photos"/>
+    <file name="lady goonz e-book.jpg" crc="3769538996" seo="true" ref="gallery"/>
+    <file name="13256152_615103055307789_506653481885450823_n-1.jpg" crc="3872444636" seo="true" ref="photos"/>
+    <file name="epi2.jpg" crc="398041959" seo="true" ref="photos"/>
+    <file name="13179254_222698134781858_5513558968961496817_n.jpg" crc="4096560155" seo="true" ref="photos"/>
+    <file name="10580056_873926359302042_5200348498845325894_n.jpg" crc="3788727709" seo="true" ref="photos"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4241999866" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4232698859" seo="true" mt="1483298057421" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3839668773" ref="phone>index:phone>gallery:phone>contact"/>
+      <file name="index.css" crc="3861005627" ref="phone>index"/>
+      <file name="gallery.css" crc="3787148148" ref="phone>gallery"/>
+      <file name="contact.css" crc="311183545" ref="phone>contact"/>
+    </folder>
+    <file name="index.html" crc="3788691288" seo="true" mt="1483298057505" redirect="true"/>
+    <file name="gallery.html" crc="523312174" seo="true" mt="1483290719589" redirect="true"/>
+    <file name="contact.html" crc="3958744301" seo="true" mt="1483290719589" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3986955275" seo="true" mt="1483305699030" redirect="true"/>
+  <file name="gallery.html" crc="451911730" seo="true" mt="1483305699030" redirect="true"/>
+  <file name="contact.html" crc="122673622" seo="true" mt="1483305699030" redirect="true"/>
+  <file name="photos.html" crc="3937247594" seo="true" mt="1483305699030" redirect="true"/>
+</manifest>
